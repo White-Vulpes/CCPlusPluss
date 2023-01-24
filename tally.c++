@@ -37,6 +37,6 @@ int main(){
         data.getline(obj[x].amt, 30, '\n');
         cout << obj[x].date << "   " << obj[x].from << "   " << obj[x].to << "   " << obj[x].amt << "\n";
     }
-
+    cout << data;
     //imp << "<ENVELOPE>\n<HEADER>\n<TALLYREQUEST> Import Data</TALLYREQUEST>\n</HEADER>\n<BODY>\n<IMPORTDATA>\n<REQUESTDESC>\n<REPORTNAME> All Masters</REPORTNAME>\n<STATICVARIABLES>\n<SVCURRENTCOMPANY> Mahaveer </SVCURRENTCOMPANY>\n</STATICVARIABLES>\n</REQUESTDESC>\n<REQUESTDATA> ";
 }
