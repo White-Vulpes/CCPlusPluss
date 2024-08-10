@@ -1,6 +1,4 @@
-Here's a `README.md` for your "CCPlusPluss" project:
 
----
 
 # CCPlusPluss
 
